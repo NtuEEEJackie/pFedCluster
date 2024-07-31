@@ -17,7 +17,7 @@ python fedavg.py --gpu "7" --dataset 'cifar10' --partition 'noniid-skew' --n_par
 ```console
 sh run_cifar10.sh
 ```
-- pfedCluster_cosine.py runs the experiment that we regularize the local model with the normalized aggregated model.
+You can run the pfedCluster_cosine.py file directly in pycharm.
 
 
 
